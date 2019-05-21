@@ -1,1 +1,2 @@
-# cs7642_reinforcement_learning
+# CS7642
+Reinforcement Learning & Decision Making
